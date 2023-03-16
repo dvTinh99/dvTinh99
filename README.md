@@ -4,15 +4,13 @@
 ![](https://img.shields.io/github/followers/dvTinh99?style=social)
 ![](https://komarev.com/ghpvc/?username=dvTinh99)
 ### Connect with me:
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-&nbsp;&nbsp;
-![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
-&nbsp;&nbsp;
 ![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)
 &nbsp;&nbsp;
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 &nbsp;&nbsp;
-
+[<img align="left" alt="Visual Studio Code" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="padding-right:10px;" />](https://google.com)
+&nbsp;&nbsp;
+[<img align="left" alt="Visual Studio Code" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" style="padding-right:10px;" />](https://www.facebook.com/dvtinh99)
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
