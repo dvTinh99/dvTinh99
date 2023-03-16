@@ -1,4 +1,3 @@
-
 # Hi there, I'm Tinh Doan 👋 
 
 ## I'm a Developer !!
@@ -25,6 +24,6 @@
 <img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img align="left" alt="GitHub" width="45px" src="https://github.com/dvTinh99/dvTinh99/blob/main/github-removebg-preview.png?raw=true" />
 <img align="left" alt="Docker" width="30px" src="https://raw.githubusercontent.com/dvTinh99/dvTinh99/3267b3adeb7105c095307fa348a5cb51d3992a61/docker.png" style="padding-right:10px;" />
