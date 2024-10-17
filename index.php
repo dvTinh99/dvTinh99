@@ -11,7 +11,7 @@ canvas {
 </head>
 <body >
 
-tinhdoan da o day 3 day ne
+tinhdoan da o day 4
 <script>
 
 var myGamePiece;
