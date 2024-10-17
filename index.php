@@ -9,7 +9,9 @@ canvas {
 }
 </style>
 </head>
-<body onload="startGame()">
+<body >
+
+tinhdoan da o day
 <script>
 
 var myGamePiece;
