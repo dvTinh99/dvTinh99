@@ -13,8 +13,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v4
+    - name: Deploy using ssh
+      uses: appleboy/ssh-action@master
     - name: read secret 
       run: echo "my host secret ${{secrets.YOOSAI_HOST_URL}}"
     - name: ssh by username and password
