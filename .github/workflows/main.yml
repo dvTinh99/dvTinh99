@@ -13,12 +13,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Deploy using ssh
-      uses: appleboy/ssh-action@master
     - name: read secret 
       run: echo "my host secret ${{secrets.YOOSAI_HOST_URL}}"
-    - name: ssh by username and password
-      uses: ./
+    - name: Deploy using ssh
+      uses: appleboy/ssh-action@master
       with:
         host: ${{ secrets.YOOSAI_HOST_URL }}
         username: ${{ secrets.YOOSAI_USERNAME }}
