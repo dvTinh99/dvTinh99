@@ -17,14 +17,14 @@ jobs:
       run: echo "my host secret ${{secrets.YOOSAI_HOST_URL}}"
     - name: ssh by username and password
       uses: ./
-        with:
-          host: ${{ secrets.YOOSAI_HOST_URL }}
-          username: ${{ secrets.YOOSAI_USERNAME }}
-          password: ${{ secrets.YOOSAI_PASSWORD }}
-          port: 22
-          script: |
-            cd /var/www/yoosai-php-ntt
-            git pull
+      with:
+        host: ${{ secrets.YOOSAI_HOST_URL }}
+        username: ${{ secrets.YOOSAI_USERNAME }}
+        password: ${{ secrets.YOOSAI_PASSWORD }}
+        port: 22
+        script: |
+          cd /var/www/yoosai-php-ntt
+          git pull
 
     # Add a test script to composer.json, for instance: "test": "vendor/bin/phpunit"
     # Docs: https://getcomposer.org/doc/articles/scripts.md
